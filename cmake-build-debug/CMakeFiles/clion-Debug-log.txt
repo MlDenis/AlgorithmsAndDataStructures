@@ -1,1 +1,0 @@
-CMakeLists.txt not found in /Users/denismalyavin/development/github Select CMakeLists.txt
